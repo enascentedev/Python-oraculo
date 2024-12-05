@@ -9,7 +9,7 @@ from langchain.prompts import ChatPromptTemplate
 
 from loaders import *
 
-# OPENAI_API_KEY = digite sua chave
+# OPENAI_API_KEY = "digite sua chave"
 
 TIPOS_ARQUIVOS_VALIDOS = [
     'Site', 'Youtube', 'Pdf', 'Csv', 'Txt'
