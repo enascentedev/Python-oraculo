@@ -5,9 +5,11 @@ from langchain.memory import ConversationBufferMemory
 from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 from loaders import *  
+from dotenv import load_dotenv
 
-# **INSIRA SUA CHAVE API DO OPENAI AQUI**
-OPENAI_API_KEY = "digite sua chave"  # Substitua por sua chave API real
+load_dotenv()  # Carrega variáveis do arquivo .env
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+
 
 # Definição dos tipos de arquivos válidos para upload
 TIPOS_ARQUIVOS_VALIDOS = [
