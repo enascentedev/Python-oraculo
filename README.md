@@ -4,11 +4,9 @@ fonte de sabedoria ou conhecimento profundo
 
 ## Visão Geral
 
-O Oráculo é uma aplicação interativa que permite interagir com uma variedade de fontes de dados, incluindo vídeos do YouTube, arquivos CSV, PDFs e TXT, tudo por meio de uma interface de conversação. O projeto oferece flexibilidade ao permitir a escolha entre diferentes provedores de modelos de linguagem, como  a'gpt-4o-mini', 'gpt-4o', 'o1-preview', 'o1-mini' todos da OpenAI (pago), oferecendo a liberdade de personalizar a experiência de conversa conforme as necessidades do usuário.
+O Oráculo é uma aplicação interativa de Inteligência Artificial que permite interagir com uma variedade de fontes de dados, incluindo vídeos do YouTube, arquivos CSV, PDFs e TXT, tudo por meio de uma interface de conversação. O projeto oferece flexibilidade ao permitir a escolha entre diferentes provedores de modelos de linguagem, como  a'gpt-4o-mini', 'gpt-4o', 'o1-preview', 'o1-mini' todos da OpenAI (pago), oferecendo a liberdade de personalizar a experiência de conversa conforme as necessidades do usuário.
 
 ## Funcionalidades
-
-O Oráculo é uma aplicação interativa que permite a interação com diversas fontes de dados, como vídeos do YouTube, arquivos CSV, PDFs e TXT, tudo por meio de uma interface de conversação. O projeto oferece flexibilidade ao permitir a escolha entre diferentes modelos de linguagem da OpenAI, como gpt-4o-mini, gpt-4o, o1-preview e o1-mini, oferecendo a liberdade de personalizar a experiência de conversa conforme as necessidades do usuário.
 
 As principais funcionalidades incluem:
 
